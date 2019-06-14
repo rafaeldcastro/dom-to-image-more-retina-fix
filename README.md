@@ -1,0 +1,1 @@
+# dom-to-image-more-retina-fix
